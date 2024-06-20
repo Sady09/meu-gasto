@@ -4,6 +4,7 @@ function Home() {
   return (
     <div className="flex gap-4">
       <div className="flex flex-1 bg-red-700">
+        VAI TOMA NO CU
         {/* Primeiro quadrado */}
         <div className="flex">
           <span>R$</span>
