@@ -5,7 +5,9 @@ function Home() {
     <div className="flex gap-4">
       <div className="flex flex-1 bg-red-700">
         {/* Primeiro quadrado */}
-        <div className="flex"></div>
+        <div className="flex">
+          <span>R$</span>
+        </div>
         {/* Segundo quadrado com 2 quadradinhos */}
         <div className="flex">
           <div className="flex"></div>
